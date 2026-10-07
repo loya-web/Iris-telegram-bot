@@ -1,0 +1,10 @@
+# Variables de entorno secretas (NUNCA SUBIR)
+.env
+
+# Archivos de credenciales de Google
+credentials.json
+token.json
+
+# Cache de Python
+__pycache__/
+*.pyc
